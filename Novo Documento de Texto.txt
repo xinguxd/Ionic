@@ -1,0 +1,13 @@
+1)instalar node 
+2)instalar jdk
+2.1)criar a variavel java_home apontar para o jdk 1.8 instaladno no item 2 (variavel de ambiente)
+
+3 instalar android studio 1714443003
+4) instalar o vscode 1.19
+5) instalar o ionic
+5.1 cmd
+5.2 npm install -g cordova ionic
+
+
+ionic 3.19.1
+node 8.9.3
